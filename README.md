@@ -1,4 +1,4 @@
-# Scanning nslookup All Host
+# Scanning NSlookup All Host
 
 # Author : Boychongzen aka Xroot
 
