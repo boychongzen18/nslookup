@@ -1,10 +1,12 @@
-# Scanning Nslookup 
+# Scanning nslookup All Host
 
 # Author : Boychongzen aka Xroot
 
-# Tested  Windows Seven Working
+# Tested  Windows Seven & Termux Working
 
-# Tampilan Scanning Nslookup Manual-Host Via Windows
+# Tampilan Scanning nslookup Manual-Host Via Termux
+![be](https://raw.githubusercontent.com/boychongzen18/nslookup/master/tremos.jpg)
+# Tampilan Scanning nslookup Manual-Host Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/nslookup/master/nslookup.jpg)
 # Tampilan Scanning Nslookup Mass-Host Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/nslookup/master/nslookup1.jpg)
