@@ -1,0 +1,11 @@
+
+Tutorial Scanning Massal Bug
+
+Author : Boychongzen aka Xroot
+
+ 
+Cara Eksekusi Via nslookup
+
+for /F %x in (bug.txt) do nslookup %x
+
+
