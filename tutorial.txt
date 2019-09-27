@@ -1,5 +1,5 @@
 
-Tutorial Scanning Massal Bug
+Tutorial Scanning Bug Massal 
 
 Author : Boychongzen aka Xroot
 
@@ -7,5 +7,8 @@ Author : Boychongzen aka Xroot
 Cara Eksekusi Via nslookup
 
 for /F %x in (bug.txt) do nslookup %x
+
+
+Regards Boychongzen aka Xroot
 
 
